@@ -4,6 +4,7 @@ I'm Evgeny, and I code... Sometimes. I learned and taught beginner to advanced `
 
 ## Currently working on:
 - 🌱 Learning Next.js.
+- 💹 [10kreader.com](https://www.10kreader.com/), a site to retrieve, read and interact with filings of any public U.S. companies. Courtesy of [@KevinGBojan](https://github.com/KevinGBojan).
 - 📊 Getting better at SQL.
 
 ## Recent projects:
