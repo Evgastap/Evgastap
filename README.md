@@ -1,6 +1,6 @@
 ### Hi there, internet stranger 👋
 
-I'm Evgeny, and I write code... Sometimes. I work at [TNW](https://thenextweb.com), am the chief everything guy at, ehm, my [own business](https://evgenyastapov.com), like to [film stupid videos](https://www.youtube.com/watch?v=eabxU9ozfZw), and am fueled by helping out everyone who's doing cool shit.
+I'm Evgeny, and I write code... Sometimes. I am the CTO at [Superconnectors](https://superconnectors.io), am the chief everything guy at, ehm, my [own business](https://evgenyastapov.com), like to [film stupid videos](https://www.youtube.com/watch?v=eabxU9ozfZw), and am fueled by helping out everyone who's doing cool shit.
 
 ## Currently working on:
 - 👀 `Stealth` - A/B testing tool with a twist
