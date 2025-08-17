@@ -44,6 +44,15 @@ I am the **CTO** at [Superconnectors](https://superconnectors.io) 🚀, **Senior
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=evgastap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=evgastap&theme=tokyonight&hide_border=true" />
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Evgastap/Evgastap/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Evgastap/Evgastap/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
 </div>
 
 <div align="center">
